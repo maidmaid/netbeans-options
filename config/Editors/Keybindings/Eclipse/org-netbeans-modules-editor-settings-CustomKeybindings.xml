@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bindings PUBLIC "-//NetBeans//DTD Editor KeyBindings settings 1.1//EN" "http://www.netbeans.org/dtds/EditorKeyBindings-1_1.dtd">
+<bindings>
+    <bind key="SO-M" remove="true"/>
+    <bind key="S-F10" remove="true"/>
+    <bind key="SO-W" remove="true"/>
+    <bind key="SO-L" remove="true"/>
+    <bind key="S-SPACE" remove="true"/>
+    <bind key="O-U$G" remove="true"/>
+    <bind key="D-2$L" remove="true"/>
+    <bind key="D-2$F" remove="true"/>
+    <bind key="O-U$I" remove="true"/>
+    <bind key="SD-O" remove="true"/>
+    <bind key="O-U$S" remove="true"/>
+</bindings>

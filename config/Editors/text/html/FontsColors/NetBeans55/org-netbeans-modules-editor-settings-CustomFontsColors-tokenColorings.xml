@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="default" foreColor="black" name="el-content"/>
+    <fontcolor default="default" name="xml-pi"/>
+    <fontcolor name="mod-method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="mod-class" waveUnderlined="red"/>
+    <fontcolor default="default" foreColor="black" name="el-delimiter">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="markup-attribute" name="mod-constructor">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor bgColor="ffe3f2e1" default="default" name="javascript-embedded"/>
+    <fontcolor bgColor="ffe3f2e1" default="default" name="css-embedded"/>
+</fontscolors>
